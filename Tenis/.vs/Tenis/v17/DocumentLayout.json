@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\3\u00BA Ano\\2\u00BA Semestre\\Algoritmia e estruturas de dados\\Exercicios\\Tenis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CB066-527E-42AD-8C5D-A4A7415CE992}|Tenis.vcxproj|C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\3\u00BA Ano\\2\u00BA Semestre\\Algoritmia e estruturas de dados\\Exercicios\\Tenis\\Tenis.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A19CB066-527E-42AD-8C5D-A4A7415CE992}|Tenis.vcxproj|solutionrelative:Tenis.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tenis.c",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\3\u00BA Ano\\2\u00BA Semestre\\Algoritmia e estruturas de dados\\Exercicios\\Tenis\\Tenis.c",
+              "RelativeDocumentMoniker": "Tenis.c",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\3\u00BA Ano\\2\u00BA Semestre\\Algoritmia e estruturas de dados\\Exercicios\\Tenis\\Tenis.c",
+              "RelativeToolTip": "Tenis.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2023-05-05T10:16:26.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
